@@ -49,7 +49,7 @@ function Hero(){
                     <div className='max-w-2xl'>
                        
                         <h1 className='text-5xl md:text-4xl font-bold text-white mb-6 leading-tight'>
-                        GARABJOOG WAA GACANT KU QABATA MARKAAD LIIDATO,
+                        GARABJOOG WAA GACANTA KU QABATA MARKAAD LIIDATO,
                         </h1>
                         <p className='text-white/90 text-lg mb-8 leading-relaxed'>
                         GarabJoog waa gacanta ku qabata markaad liidato, garabka kuu furma markaad taagero u baahato.
