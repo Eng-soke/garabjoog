@@ -5,6 +5,8 @@ import garabjoogsawir2 from './garabjoogsawir2.jpeg'
 import garabjoogsawir3 from './garabjoogsawir3.jpeg'
 import garabjoogsawir4 from './garabjoogsawir4.jpeg'
 
+//logo
+import logo from './garabjoglogo.png'
 
 export default {
     garabjooghero1,
@@ -13,4 +15,5 @@ export default {
     garabjoogsawir2,
     garabjoogsawir3,
     garabjoogsawir4,
+    logo,
 }
